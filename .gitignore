@@ -9,4 +9,6 @@ wheels/
 # Virtual environments
 .venv
 
-labs/
+labs/*
+!labs/README.md
+labs/gitkeep
